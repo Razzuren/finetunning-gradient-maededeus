@@ -1,0 +1,9 @@
+Write a descriptive anamnesis in Brazilian Portuguese for this pacient based on following data
+- Nome: < NOME >
+- Idade: 53
+- Sexo: Masculino
+- Sintomas: Fadiga, febre, calafrios e tosse produtiva, às vezes com eliminação de escarro esverdeado, há 4 dias. Dois dias após o início do quadro, a dispnéia tornou-se mais grave e a febre elevada (TA: 39,5º C). No momento, queixa-se de dor torácica, em pontada, na região inferior do hemitórax esquerdo, que se acentua com a tosse e à inspiração.
+- Histórico: Nega tabagismo. Relata ser diabético há dois anos.
+- Exame Físico: PA: 140 x 90 mm Hg FR: 32 irpm TA: 40ºC. Paciente em bom estado geral, corado, hidratado, anictérico, acianótico, sem linfadenomegalias. AR: crepitações na região inferior do hemitórax esquerdo. ACV: bulhas taquicárdicas e normofonéticas. AD e AGU: ndn.
+- Exames laboratoriais: Solicitar BAAR + RX TORAX + LABS ( TALVEZ TESTE CUTANEO)
+- Encaminhamento: Pneumologista

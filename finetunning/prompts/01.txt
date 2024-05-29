@@ -1,0 +1,81 @@
+Write a descriptive anamnesis in Brazilian Portuguese for this pacient based on following data
+- Nome: <NOME>
+- Idade: 65 anos
+- Sexo: Feminino
+- Cidade de Residência: <CIDADE>
+- Estado de Residência: <ESTADO>
+- Etnia: Parda
+- Estado Civil: Viúva
+- Ocupação: Aposentada
+- Religião: Católica
+- Educação: Ensino fundamental completo
+- Queixa Atual: Perda de memória
+- Medicamentos: Losartana 50 mg (1-0-1), Hidroclorotiazida 25 mg (1-0-0), Metformina 500 mg (1-1-1), dose dupla de Omeprazol
+- Histórico Pessoal: Hipertensão e diabetes de longa data (compensadas) e refluxo gastroesofágico em tratamento há 10 anos. Nega histórico de cirurgias e alergias.
+- Hábitos: Nega uso de álcool e tabaco.
+- Histórico Familiar:
+  - Mãe: 80 anos, hipertensa, diabética e cardiopata.
+  - Pai: Falecido aos 70 anos devido a complicações de um AVC.
+  - Irmã: 50 anos, em tratamento para diabetes e depressão.
+- Exames Complementares:
+  - Hb: 8,7 g/dL
+  - Ht: 26%
+  - VCM: 113 fl
+  - Leucócitos: 6.800 /mm³
+  - Plaquetas: 300.000 /mm³
+  - Creatinina: 1,04 mg/dL
+  - Ureia: 29 mg/dL
+  - Sódio: 138 mEq/L
+  - Potássio: 3,3 mEq/L
+  - Vitamina B12: 100 pg/mL
+  - TGO: 22 U/L
+  - TGP: 11 U/L
+  - Glicose: 90 mg/dL
+  - TSH: 2,74 µUI/mL
+  - Sorologias virais: Negativas
+  - VDRL: Negativo
+- Exame Físico:
+  - Estado geral: Bom
+  - Cor: Hipocorada (+/4+)
+  - Hidratação: Hidratada
+  - Cianose: Ausente
+  - Icterícia: Ausente
+  - Febre: Afebril
+  - Peso: Sobrepeso
+  - Consciência: Consciente, algo desorientada
+  - Dados vitais:
+    - FC: 70 bpm
+    - FR: 20 irpm
+    - Temperatura: 36,6°C
+    - PA: 130x80 mmHg
+  - Cabeça e pescoço: Ausência de achados relevantes
+  - Neurológico:
+    - Desorientação temporo-espacial
+    - Miniexame do Estado Mental (MEEM): 18 pontos
+    - Sinal de Romberg: Positivo
+    - Déficit de sensibilidade vibratória em membros inferiores
+    - Sensibilidade tátil superficial e térmica: Preservada
+    - Reflexos: Preservados
+    - Marcha: Atáxica
+  - Tórax:
+    - Expansibilidade e frêmito toracovocal: Normais
+    - Percussão pulmonar: Som claro
+    - Murmúrio vesicular: Presente e universal
+    - Ruídos adventícios: Ausentes
+  - Precórdio:
+    - Ritmo cardíaco: Regular
+    - Bulhas: Normofonéticas, em dois tempos, sem sopros
+    - Turgência jugular: Ausente
+  - Abdome:
+    - Forma: Semigloboso por adiposidade
+    - RHA: Presentes
+    - Palpação: Flácido e indolor, sem massas ou visceromegalias
+    - Espaço de Traube: Livre
+  - Extremidades:
+    - Perfusão: Bem perfundidas
+    - Pulsos periféricos: Palpáveis, cheios e simétricos
+    - Cianose: Ausente
+    - Xerose cutânea: Presente
+    - Veias varicosas: Presente nos membros inferiores
+  - Articulações e sistema osteomuscular: Ausência de achados relevantes
+- Encaminhamento: Neurologista e solicitação de EEG.

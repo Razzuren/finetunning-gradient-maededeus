@@ -1,0 +1,63 @@
+Write a descriptive anamnesis in Brazilian Portuguese for this pacient based on following data
+- Sexo: Feminino
+- Idade: 68 anos
+- Etnia: Branca
+- Queixa Atual:
+  - Tosse produtiva com escarro hialino
+  - Dispneia aos médios esforços há mais de 20 anos
+  - Piora da dispneia há 2 meses, manifestando-se ao repouso e em posição ortostática
+  - Nega febre e alteração da tosse
+- Histórico Pessoal:
+  - Tabagista de um maço por dia há 60 anos
+  - Dois episódios de pneumonia, sendo o último há 2 semanas (com tratamento domiciliar)
+  - Nega hipertensão arterial sistêmica
+  - Nega uso de medicamentos
+- Exame Físico:
+  - Cor: 
+    - Cianose: ++/+++
+    - Descorada: +
+  - Pressão Arterial: 90x50 mmHg
+  - Pulso: 100 bpm
+  - Frequência Respiratória: 37 movimentos/min
+  - Temperatura: 36,5°C (afebril)
+  - Estase jugular: Presente a 45°
+  - Oictus cordis: Não palpável
+  - Ausculta cardíaca:
+    - Sopro sistólico + em foco mitral, aumentado à manobra de Valsalva
+    - Sopro sistólico ++ em foco tricúspide, aumentado à manobra de Rivero-Carvalho
+  - Tórax:
+    - Aumento do diâmetro ântero-posterior
+    - Percussão: Som hipersonoro
+    - Murmúrio vesicular: Diminuído globalmente
+    - Estertores subcrepitantes: Presentes em bases e campos médios
+  - Abdome:
+    - Fígado: Palpável a 3 cm do arco costal em linha hemiclavicular direita, endurecido + e indolor
+  - Edema de membros inferiores: Ausente
+- Exames laboratoriais:
+  - Hemograma:
+    - Eritrócitos: 3,56 x 10^6/mm³
+    - Hemoglobina: 11,2 g/dL
+    - Hematócrito: 33,4%
+    - VCM: 94 µm³
+    - Plaquetas: 283.000 /mm³
+    - Leucócitos: 8.800 /mm³
+      - Metamielócitos: 88
+      - Bastonetes: 528
+      - Segmentados: 5.632
+      - Eosinófilos: 264
+      - Linfócitos típicos: 1.408
+      - Monócitos: 880
+  - Coagulograma:
+    - Tempo de protrombina: 14,9 s
+    - Atividade de protrombina: 100%
+    - RNI: 1,00
+    - TTPA: 37,2 s
+    - Testemunho: 30,8 s
+    - R: 1,2
+  - Urina tipo I:
+    - Nitrito: Positivo
+    - Hemácias: 500 /mL (normal até 3.500/mL)
+    - Leucócitos: 168.000 /mL (normal até 6.500/mL)
+    - Bactérias: Numerosas
+    - Cultura: Positiva para E. coli, sensível a ciprofloxacina
+- Encaminhamento: Solicitar anamnese de ECO.

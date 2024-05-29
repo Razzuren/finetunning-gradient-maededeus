@@ -1,0 +1,85 @@
+Write a descriptive anamnesis in Brazilian Portuguese for this pacient based on following data
+- Nome: < NOME >
+- Idade: 61 anos
+- Sexo: Feminino
+- Etnia: Branca
+- Estado Civil: Casada há 40 anos
+- Ocupação: Aposentada
+- Cidade de Residência: < CIDADE >
+- Estado de Residência: < ESTADO >
+
+Queixa Principal:
+- Descrição: Cansaço e muito sono
+- Duração: 2 meses
+
+História da Doença Atual (HDA):
+- Início dos sintomas: Há 2 meses
+- Sintomas:
+  - Fadiga, principalmente no período da tarde
+  - Piora progressiva da fadiga
+  - Desfocada e sonolenta há 3 semanas
+  - Dificuldade de concentração
+  - Ganho de peso recente
+- Acompanhamento médico:
+  - Endocrinologista: A cada 6 meses para diabetes
+  - Peso na última consulta: 65 kg
+  - Peso atual: 71 kg
+- Situação atual: Consulta de retorno com as queixas mencionadas
+
+Antecedentes Pessoais:
+- Condições:
+  - Hipertensão: Há 5 anos
+  - Diabetes Tipo 1: Há 45 anos
+- Medicamentos:
+  - Atenolol: 50 mg (1x ao dia)
+  - Hidroclorotiazida: 25 mg (1x ao dia)
+  - Insulina Regular: 5 UI (a cada refeição)
+  - Insulina NPH: 30 UI (manhã) e 15 UI (noite)
+- Atividade física: Caminhadas diárias de 30 minutos, parou há 3 meses devido à pandemia
+- Cirurgias: Apendicectomia há 25 anos
+- Alergias: Nega alergias
+
+Antecedentes Familiares:
+- Mãe: Problema na tireoide (não especificado)
+- Pai: Diabético e cardiopata, faleceu de Infarto Agudo do Miocárdio
+- Irmãos: Dois irmãos com Hipertensão Arterial Sistêmica
+
+Antecedentes Sociais:
+- Educação: Ensino médio completo
+- Renda familiar: 7 salários mínimos
+- Habitação: Casa de alvenaria, 4 cômodos, sistema de água e esgoto
+
+Exame Físico:
+- Antropometria:
+  - Peso: 71 kg
+  - Altura: 1,61 m
+  - IMC: 27,4
+  - Circunferência abdominal: 93 cm
+  - Circunferência do quadril: 100 cm
+- Geral:
+  - Estado geral: Regular
+  - Orientação: Orientada
+  - Hidratação: Hidratada
+  - Coloração: Hipocorada (++/4+)
+  - Icterícia: Anictérica
+  - Cianose: Acianótica
+  - Respiração: Eupneica
+  - Temperatura: Afebril
+  - Tireoide: Nódulo pequeno e indolor à palpação
+- Avaliação Cardiovascular:
+  - Bulhas: Normofonéticas em dois tempos, sem sopros
+  - Frequência Cardíaca (FC): 80 bpm
+  - Pressão Arterial (PA): 110x60 mmHg
+- Avaliação Respiratória:
+  - Frequência Respiratória (FR): 17 irpm
+  - Alterações: Sem alterações significativas
+- Avaliação Neurológica:
+  - Discurso: Lentificado
+  - Pensamento: Lentificado
+- Avaliação Abdominal: Sem alterações
+- Avaliação Musculoesquelética: Sem alterações
+- Avaliação Ginecológica: Sem alterações
+
+Solicitações:
+- Tomografia
+- Exames laboratoriais (LABS)
